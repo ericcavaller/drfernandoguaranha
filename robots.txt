@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /agende.html
+
+Sitemap: https://SEU-DOMINIO.com.br/sitemap.xml
